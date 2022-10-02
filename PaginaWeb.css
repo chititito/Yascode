@@ -1,0 +1,18 @@
+body { background: #B4C5E4; }
+
+#contenedor {width: 850px;
+             padding: 50 px;
+             margin: 0px auto;
+             background: #3D52D5;
+            float: center;}
+
+h1 {font-family: 'Quicksand', sans-serif;}
+
+h2 {font-family: 'Roboto', sans-serif;}
+
+p {font-family: 'Roboto', sans-serif;}
+
+#minicontenedor { background: #FBFFF1; }
+
+img {width:150px ;
+     height: 150px;}
